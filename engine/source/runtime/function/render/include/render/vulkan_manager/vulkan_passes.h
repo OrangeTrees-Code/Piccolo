@@ -17,7 +17,7 @@ namespace Pilot
     {
     public:
         void initialize(VkRenderPass render_pass, VkImageView input_attachment);
-        void draw();
+        void draw() override;
 
         void updateAfterFramebufferRecreate(VkImageView input_attachment);
 
