@@ -215,6 +215,7 @@ JPH_SUPPRESS_WARNINGS_STD_BEGIN
 #include <algorithm>
 #include <utility>
 #include <cmath>
+#include <cstdint>
 #include <sstream>
 #include <functional>
 JPH_SUPPRESS_WARNINGS_STD_END
